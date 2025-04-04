@@ -1,4 +1,4 @@
-git+https://github.com/apple/ml-stable-diffusion.git
+python-coreml-stable-diffusion @ git+https://github.com/nakayama900/ml-stable-diffusion.git
 coremltools>=7.1
 overrides
 diffusers>=0.22
